@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@types/amqplib": "^0.10.7",
+    "@types/node": "^22.13.10",
+    "amqplib": "^0.10.5",
+    "tslog": "^4.9.3",
+    "zod": "^3.24.2"
+  }
+}
